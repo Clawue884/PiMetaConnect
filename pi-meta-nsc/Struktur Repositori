@@ -1,0 +1,22 @@
+pi-meta-nsc/
+├── core/
+│   ├── config.py
+│   ├── pi_client.py
+│   ├── security.py
+│   └── utils.py
+│
+├── modules/
+│   ├── identity.py
+│   ├── payments.py
+│   ├── dao.py
+│   ├── assets.py
+│   ├── treasury.py
+│   └── bridge.py
+│
+├── api/
+│   └── server.py
+│
+├── storage/
+│   └── db.py
+│
+└── main.py
